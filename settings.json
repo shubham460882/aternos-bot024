@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "RBDSMPXDNGA.aternos.me",
-    "port": 20526,
+    "ip": "RBDSMP2.aternos.me",
+    "port": 13346,
     "version": "1.20.1",
     "try-creative": false
   },
